@@ -219,7 +219,6 @@
 			isa = PBXGroup;
 			children = (
 				53EACE80257D68AA007CE6AF /* DetailView Components */,
-				53C963E0257B0E3900F2965D /* Button */,
 				53C963DF257B0E3200F2965D /* Table View */,
 			);
 			path = Components;
@@ -276,13 +275,6 @@
 				5373C62F257BF5B80021CF06 /* Table+View.swift */,
 			);
 			path = "Table View";
-			sourceTree = "<group>";
-		};
-		53C963E0257B0E3900F2965D /* Button */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Button;
 			sourceTree = "<group>";
 		};
 		53DD753B257C06A9002F6981 /* Screen */ = {

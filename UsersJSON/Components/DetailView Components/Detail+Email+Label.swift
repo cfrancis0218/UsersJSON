@@ -20,8 +20,8 @@ class Detail_Email_Label: UILabel {
     }
     
     final func emailLabelSetup() {
-        textColor = Colors.darkGrey
-        font = UIFont.systemFont(ofSize: 38, weight: .semibold)
+        textColor = Colors.lightPurple
+        font = UIFont.systemFont(ofSize: 32, weight: .semibold)
         textAlignment = .left
     }
 }
